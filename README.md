@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Vieliente
-- 👀 I’m interested in ... Computer Science and Software Engineering
+- 👀 I’m interested in ... Computer Science and aspiring in Software Engineering
 - 🌱 I’m currently learning C++, Java & Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
